@@ -1,11 +1,7 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-This is the main repository for all of the projects in the course.
-
-UPDATE LINK 👇
-
 -   [Course Link](https://www.udemy.com/course/50-projects-50-days)
--   [Course Info Website](https://50projects50days.com)
+
 
 |  #  | Project                                                                                                                          | Live Demo                                                                         |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------- |
@@ -60,10 +56,3 @@ UPDATE LINK 👇
 | 49  | [Todo List](https://github.com/akankshasrivastava1/50projects50days/tree/main/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/akankshasrivastava1/50projects50days/tree/main/todo-list)                                 | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
 
-**NOTE ON PULL REQUESTS**: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features.
-
-## License
-
-The MIT License
-
-Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
